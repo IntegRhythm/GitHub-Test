@@ -8,6 +8,7 @@
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_131838_github_so.social_coding_user</name>
+        <scoped_admin>false</scoped_admin>
         <suffix>social_coding_user</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
