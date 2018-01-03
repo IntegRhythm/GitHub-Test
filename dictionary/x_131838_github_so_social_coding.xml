@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Social Coding" max_length="40" name="x_131838_github_so_social_coding" type="collection">
+        <element label="Repository Name" max_length="100" name="repository_name" type="string"/>
+        <element label="Repository URL" max_length="1024" name="repository_url" type="url"/>
+        <element label="Size of the Team" max_length="10" name="size_of_the_team" type="string"/>
+        <element label="Team Name" max_length="100" name="team_name" type="string"/>
+    </element>
+</database>
